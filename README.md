@@ -1,5 +1,7 @@
 # Jules Tier Search — Android Home-Screen Web App
 
+**[Open the live app](https://turtle328.github.io/bazaar-item-rankings/)**
+
 **What it is:** An instant-search, mobile-first reference for all 120 Jules items from the Unduel Season 20 tier list (November 4, 2026). This is a fixed snapshot; it does not automatically sync future ratings.
 
 ## Test it right now (no hosting)
