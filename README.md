@@ -2,7 +2,7 @@
 
 **[Open the live app](https://turtle328.github.io/bazaar-item-rankings/)**
 
-**What it is:** An instant-search, mobile-first reference for 121 Jules items: the original 120 from the Unduel Season 20 tier list (November 4, 2026) plus **Flaming Gelato (B tier, personal estimate)**. The estimate is labeled in the app and is **not** part of the community snapshot or its vote totals. Rankings do not automatically sync.
+**What it is:** An instant-search, mobile-first reference for 122 Jules items: the original 120 from the Unduel Season 20 tier list (November 4, 2026), plus **Flaming Gelato (B tier, personal estimate)** and **Fire Fly Trap (B tier, personal estimate)**. Both estimates are labeled in the app and are **not** part of the community snapshot or its vote totals. Fire Fly Trap was added to the game in Patch 19.0 (October 7, 2026); it was adjusted in Patch 19.3. Rankings do not automatically sync.
 
 ## Test it right now (no hosting)
 Open `index.html` in a web browser. Search works even without a network connection. For the best Android home-screen experience, use the hosted PWA instructions below.
