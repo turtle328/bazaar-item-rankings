@@ -2,7 +2,7 @@
 
 **[Open the live app](https://turtle328.github.io/bazaar-item-rankings/)**
 
-**What it is:** An instant-search, mobile-first reference for all 120 Jules items from the Unduel Season 20 tier list (November 4, 2026). This is a fixed snapshot; it does not automatically sync future ratings.
+**What it is:** An instant-search, mobile-first reference for 121 Jules items: the original 120 from the Unduel Season 20 tier list (November 4, 2026) plus **Flaming Gelato (B tier, personal estimate)**. The estimate is labeled in the app and is **not** part of the community snapshot or its vote totals. Rankings do not automatically sync.
 
 ## Test it right now (no hosting)
 Open `index.html` in a web browser. Search works even without a network connection. For the best Android home-screen experience, use the hosted PWA instructions below.
@@ -16,6 +16,6 @@ Open `index.html` in a web browser. Search works even without a network connecti
 6. Open it once while online to cache the app; afterwards it works offline.
 
 ## Updating the data
-Open `index.html`, find the `const DATA=` assignment, and replace its JSON array with new `{ "name": "...", "tier": "..." }` objects. Then bump the cache ID in `sw.js`, redeploy, and revise the snapshot date on the page.
+Open `index.html`, find the `const DATA=` assignment, and replace its JSON array with new `{ "name": "...", "tier": "..." }` objects (or add `"estimated": true` for a personal estimate). Then bump the cache ID in `sw.js`, redeploy, and revise the snapshot date on the page.
 
 Source: https://unduel.com/u/bazaardb/jules-items-the-bazaar-xk4xys8GR2Xky27m8C9ES/tier-list
